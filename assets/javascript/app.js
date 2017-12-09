@@ -4,40 +4,20 @@ var countStartNumber = 30;
 // all questions and answers
 var questions = [
 	
-	{question: "The scientific study of plant life is called what?",
-	answers: ["Forestry", "Botany", "Dendrology", "Arbory"],
-	correctAnswer: "Botany",
+	{question: "How many Ninja Turtles are there?",
+	answers: ["2", "3", "4", "5"],
+	correctAnswer: "4",
 	image: "assets/images/answer1.jpg"},
 
-	{question: "What is an heirloom seed?",
-	answers: ["A seed that is worth a lot of money.", "A seed from a variety that has been around for years.", "A seed your grandmother gave you.", "A tomato seed."],
-	correctAnswer: "A seed from a variety that has been around for years.",
+	{question: "Which is the best Ninja Turtle?",
+	answers: ["Donatello", "Raphael", "Leonardo", "Michaelangelo"],
+	correctAnswer: "Raphael",
+	image: "assets/images/answer2.jpg"},
+	
+	{question: "Who is the #1 enemy of the Ninja Turtles?",
+	answers: ["Shredder", "Splinter", "Rat King", "Krang"],
+	correctAnswer: "Shredder",
 	image: "assets/images/answer3.jpg"},
-	
-	{question: "How many plant species on earth are used for medicine?",
-	answers: ["70,000", "10,000", "20,000", "30,000"],
-	correctAnswer: "70,000",
-	image: "assets/images/answer4.jpg"},
-
-	{question: "Which member of the nightshade family is deadly?",
-	answers: ["Tobacco", "Belladonna", "Tabasco", "Eggplant"],
-	correctAnswer: "Belladonna",
-	image: "assets/images/answer5.jpg"},
-	
-	{question: "The Japanese word 'sakura' means the blossoming of what kind of tree?",
-	answers: ["Cherry Tree", "Japanese Pine", "Hydrangea", "Bonsai Tree"],
-	correctAnswer: "Cherry Tree",
-	image: "assets/images/answer7.jpg"},
-	
-	{question: "How fast does bamboo grow?",
-	answers: ["Up to 2 meters a day.", "Up to .5 meters a day.", "Up to 3 meters a day.", "Up to 1 meter a day."],
-	correctAnswer: "Up to 1 meter a day.",
-	image: "assets/images/answer8.png"},
-	
-	{question: "How many species of edible plants are there on earth?",
-	answers: ["100,000", "20,000", "80,000", "50,000"],
-	correctAnswer: "20,000",
-	image: "assets/images/answer9.jpg"},
 
 ];
 

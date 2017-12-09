@@ -1,5 +1,5 @@
 body {
-	background-image: url("https://1.bp.blogspot.com/-aLG3zd3GJC8/UY9wJpe2xPI/AAAAAAAAEIA/y11bwmsRgzs/s1600/IMG_5311.jpg");
+	background-image: url("http://www.cartoonswallpapers.net/wallpapers/teenage-mutant-ninja-turtles-tmnt-logo-cartoon-background-tablet.png");
 	background-size: cover;
 }
 
@@ -19,7 +19,7 @@ h1 {
 	font-size: 105px;
 	line-height: .8;
 	letter-spacing: 3px;
-	color: #88B04B;
+	color: #f8f8ff;
 	font-family: 'Dancing Script', cursive;
 }
 
@@ -28,20 +28,20 @@ h2 {
 	font-size: 50px;
 	font-style: italic;
 	line-height: 1.2;
-	color: #88B04B;
+	color: #f8f8ff;
 }
 
 h3 {
 	font-family: 'EB Garamond', serif;
 	font-size: 30px;
-	color: #88B04B;
+	color: #f8f8ff;
 }
 
 h4 {
 	font-size: 70px;
 	line-height: .8;
 	letter-spacing: 5px;
-	color: #88B04B;
+	color: #f8f8ff;
 	font-family: 'EB Garamond', serif;
 }
 
@@ -53,7 +53,7 @@ h5 {
 }
 
 .start,  {
-	background: #88B04B !important;
+	background: #f8f8ff !important;
 	color: #fff;
 	top: 100px;
 	font-family: 'EB Garamond', serif;
@@ -63,7 +63,7 @@ h5 {
 
 #answer-button, #start-over {
 	background: #D4CAC0;;
-	color: #000;
+	color: #black;
 	top: 100px;
 	font-family: 'EB Garamond', serif;
 	font-size: 22px;
@@ -71,7 +71,7 @@ h5 {
 }
 
 #start {
-	background: #88B04B !important;
+	background: #f8f8ff !important;
 	color: #fff;
 	top: 100px;
 	font-family: 'EB Garamond', serif;
@@ -87,7 +87,7 @@ h5 {
 }
 
 #info {
-	background: #D4CAC0;
+	background: lightslategrey;
 	text-align: left;
 	padding: 55px 20px 20px 30px;
 	margin-left: -20px;
@@ -96,10 +96,11 @@ h5 {
 
 #game {
 	text-align: center;
-	background: #D4CAC0;
+	background: lightslategrey;
 	height: 660px;
 	margin-left: 20px;
 	padding: 30px 20px 20px 30px;
+	opacity: .9;
 }
 
 #answer-button:hover {
@@ -117,7 +118,7 @@ img {
 #bottom,
 #left,
 #right {
-	background: #88B04B;
+	background: #f8f8ff;
 	position: fixed;
 }
 
