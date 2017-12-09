@@ -1,0 +1,138 @@
+body {
+	background-image: url("https://1.bp.blogspot.com/-aLG3zd3GJC8/UY9wJpe2xPI/AAAAAAAAEIA/y11bwmsRgzs/s1600/IMG_5311.jpg");
+	background-size: cover;
+}
+
+p {
+	font-family: 'EB Garamond', serif;
+	font-size: 30px;
+	line-height: 1.5;
+	color: #000;
+}
+
+#infoText {
+	color: #000;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 105px;
+	line-height: .8;
+	letter-spacing: 3px;
+	color: #88B04B;
+	font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+	font-family: 'EB Garamond', serif;
+	font-size: 50px;
+	font-style: italic;
+	line-height: 1.2;
+	color: #88B04B;
+}
+
+h3 {
+	font-family: 'EB Garamond', serif;
+	font-size: 30px;
+	color: #88B04B;
+}
+
+h4 {
+	font-size: 70px;
+	line-height: .8;
+	letter-spacing: 5px;
+	color: #88B04B;
+	font-family: 'EB Garamond', serif;
+}
+
+h5 {
+	font-family: 'EB Garamond', serif;
+	font-size: 26px;
+	line-height: 1.5;
+	color: #000;
+}
+
+.start,  {
+	background: #88B04B !important;
+	color: #fff;
+	top: 100px;
+	font-family: 'EB Garamond', serif;
+	font-size: 30px;
+	cursor: cell;
+}
+
+#answer-button, #start-over {
+	background: #D4CAC0;;
+	color: #000;
+	top: 100px;
+	font-family: 'EB Garamond', serif;
+	font-size: 22px;
+	cursor: cell;
+}
+
+#start {
+	background: #88B04B !important;
+	color: #fff;
+	top: 100px;
+	font-family: 'EB Garamond', serif;
+	font-size: 30px;
+	cursor: cell;
+	margin-top: 225px;
+}
+
+#title {
+	z-index: 200;
+	top: 55px;
+	left: -75px;
+}
+
+#info {
+	background: #D4CAC0;
+	text-align: left;
+	padding: 55px 20px 20px 30px;
+	margin-left: -20px;
+	margin-right: 20px;
+}
+
+#game {
+	text-align: center;
+	background: #D4CAC0;
+	height: 660px;
+	margin-left: 20px;
+	padding: 30px 20px 20px 30px;
+}
+
+#answer-button:hover {
+	background: #E6E6E6;
+	cursor: cell;
+}
+
+img {
+	width: 450px;
+}
+
+
+/* border */
+#top,
+#bottom,
+#left,
+#right {
+	background: #88B04B;
+	position: fixed;
+}
+
+#left,
+#right {
+	top: 0; bottom: 0;
+	width: 20px;
+}
+	#left { left: 0; }
+	#right { right: 0; }
+
+#top,
+#bottom {
+	left: 0; right: 0;
+	height: 20px;
+}
+	#top { top: 0; }
+	#bottom { bottom: 0; }
